@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lucaspiritogit.github.io/portfoliocmd/">Lucas!</h1>
-<h3 align="center">A Jr. front-end developer looking to learn new technologies.</h3>
+<h3 align="center">A Jr. front-end developer looking to become a full-stack developer.</h3>
 <br />
 <br />
 <p align="center">🌱 I’m currently learning <strong>TypeScript, C# and .NET</strong></p>
