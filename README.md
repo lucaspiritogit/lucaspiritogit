@@ -2,7 +2,7 @@
 <h3 align="center">A Jr. front-end developer looking to become a full-stack developer.</h3>
 <br />
 <br />
-<p align="center">🌱 I’m currently learning <strong>TypeScript, C# and .NET</strong></p>
+<p align="center">🌱 I’m currently learning <strong>TypeScript</strong></p>
 <p align="center">📫 Contact me: <strong>lucasignaciopirito@gmail.com</strong></p>
 <br />
 
