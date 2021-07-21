@@ -10,7 +10,7 @@
   <h2>Some of my projects!</h2>
   <ul>
     <a target="_blank" href="https://lucaspiritogit.github.io/pokeclicker/"><li>Pokeclicker javascript project</li></a>
-    <a target="_blank" href="https://react-chess-web-project-qkq2umd1y-lucaspiritogit.vercel.app/"><li>React chess website *WIP*</li></a>
+    <a target="_blank" href="https://react-chess-web-project.vercel.app/"><li>React chess website *WIP*</li></a>
     <a target="_blank" href=""><li>Triple w, a website for web development resources</li></a>
   </ul>
 
