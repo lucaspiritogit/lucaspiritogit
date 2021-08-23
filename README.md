@@ -20,7 +20,7 @@
     <a target="_blank" href="https://react-chess-web-project.vercel.app/"><li>React chess website *WIP*</li></a>
     <a target="_blank" href="https://triplew.herokuapp.com/"><li>Triple w, a website for web development resources</li></a>
   </ul>
-  
+<!--   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,6 +33,8 @@
   <img align="center" alt="Sass" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img align="center" alt="MySQL" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png">
-</div>
+</div> -->
    <br />
-   <img width="100%" src="https://thumbs.gfycat.com/BlindIdealCricket-size_restricted.gif">
+   <p align="center">
+   <img width="50%" src="https://thumbs.gfycat.com/BlindIdealCricket-size_restricted.gif">
+   </p>
