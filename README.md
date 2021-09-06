@@ -19,7 +19,7 @@
     <a target="_blank" href="https://triplew.herokuapp.com/"><li>Triple w, a website for web development resources</li></a>
     <a target="_blank" href="https://lucaspiritogit.github.io/pokeclicker/"><li>Pokeclicker javascript project</li></a>
     <a target="_blank" href="https://react-chess-web-project.vercel.app/"><li>React chess website *WIP*</li></a>
-    <a target="_blank" href="lucaspirito.netlify.app"><li>My own personal website</li></a>
+    <a target="_blank" href="https://lucaspirito.netlify.app/"><li>My own personal website</li></a>
   </ul>
 <!--   
 <div style="display: inline_block"><br>
