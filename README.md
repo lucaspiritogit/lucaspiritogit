@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Lucas!</h1>
-<h3 align="center">A front-end developer from Buenos Aires, Argentina 🇦🇷 looking to become a full-stack developer.</h3>
+<h3 align="center">A software developer from Buenos Aires, Argentina 🇦🇷.</h3>
 
  <p align="center">
   <a href="https://github.com/lucaspiritogit">
