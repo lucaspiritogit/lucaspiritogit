@@ -14,7 +14,7 @@
  
 </div>
   
-  <h2>Some of my projects!</h2>
+  <h2>Some of my projects</h2>
   <ul>
     <a target="_blank" href="https://triplew.herokuapp.com/"><li>Triple w, a website for web development resources</li></a>
     <a target="_blank" href="https://lucaspiritogit.github.io/pokeclicker/"><li>Pokeclicker javascript project</li></a>
