@@ -4,11 +4,7 @@
  <p align="center">
   <a href="https://github.com/lucaspiritogit">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=lucaspiritogit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-
 </p>
-  <p align="center"> 
-  <a href = "mailto:lucasignaciopirito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 </div>
   
   <h2>Some of my projects</h2>
