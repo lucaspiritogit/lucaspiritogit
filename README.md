@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋 I'm Lucas!</h1>
-<h3 align="center">A software developer from Buenos Aires, Argentina 🇦🇷.</h3>
-
- <p align="center">
-  <a href="https://github.com/lucaspiritogit">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=lucaspiritogit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-</p>
-</div>
-  
+<h3 align="center">A software developer from Buenos Aires, Argentina 🇦🇷.</h3>  
   <h2>Some of my projects</h2>
   <ul>
     <a target="_blank" href="https://triplew.herokuapp.com/"><li>Triple w, a website for web development resources</li></a>
